@@ -11,3 +11,7 @@ Technologies
 - Typescript
 
 <hr />
+
+## Deploy
+
+https://podcastrnext-ten.vercel.app/
